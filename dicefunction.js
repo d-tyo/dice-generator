@@ -12,6 +12,7 @@
 //   // Expected output: 0
   
 
+
 let D6;
 let D10;
 
