@@ -2,4 +2,35 @@
     width: 100%;
     height: 0;
     padding-top: 100%;
+<<<<<<< Updated upstream
   }
+=======
+    background-color: #ccc;
+
+  }
+
+  .flip-box-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+  }
+ 
+
+  .square2 {
+    height: 80px;
+    width: 80px;
+    background-color: #00f3ff;
+
+
+}
+  /* .square {
+    height: 500px;
+    width: 500px;
+  } */
+
+  
+  
+>>>>>>> Stashed changes
