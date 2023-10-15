@@ -27,3 +27,25 @@ body {
     transform-style: preserve-3d;
   }
  
+  #rcorners.buttonD6 {
+    border-radius: 50px;
+    background: url(https://www.thediceshoponline.com/media/catalog/product/cache/f29f0998c4cc5290cdd61c5e4e3f186e/i/m/img_7321b.png);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+  }
+
+  
+  
+  #rcorners.buttonD10 {
+    border-radius: 50px;
+    background: url(https://as1.ftcdn.net/v2/jpg/05/24/89/46/1000_F_524894680_0zgnsfghEcPwqUoB6GPn2VSmOulhOgiv.jpg);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;  
+
+  }
