@@ -11,7 +11,12 @@
 //   console.log(diceGenerator(6));
 //   // Expected output: 0
   
+function happytesting(Name) {
+    
 
+
+
+}
 
 let D6;
 let D10;
